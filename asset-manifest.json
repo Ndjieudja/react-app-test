@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ndjieudja/react-app-test.git/static/css/main.84757c76.css",
-    "main.js": "/Ndjieudja/react-app-test.git/static/js/main.aff8334b.js",
-    "static/js/787.b701888c.chunk.js": "/Ndjieudja/react-app-test.git/static/js/787.b701888c.chunk.js",
-    "index.html": "/Ndjieudja/react-app-test.git/index.html",
-    "main.84757c76.css.map": "/Ndjieudja/react-app-test.git/static/css/main.84757c76.css.map",
-    "main.aff8334b.js.map": "/Ndjieudja/react-app-test.git/static/js/main.aff8334b.js.map",
-    "787.b701888c.chunk.js.map": "/Ndjieudja/react-app-test.git/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/react-app-test/static/css/main.84757c76.css",
+    "main.js": "/react-app-test/static/js/main.e28b82eb.js",
+    "static/js/787.b701888c.chunk.js": "/react-app-test/static/js/787.b701888c.chunk.js",
+    "index.html": "/react-app-test/index.html",
+    "main.84757c76.css.map": "/react-app-test/static/css/main.84757c76.css.map",
+    "main.e28b82eb.js.map": "/react-app-test/static/js/main.e28b82eb.js.map",
+    "787.b701888c.chunk.js.map": "/react-app-test/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84757c76.css",
-    "static/js/main.aff8334b.js"
+    "static/js/main.e28b82eb.js"
   ]
 }
